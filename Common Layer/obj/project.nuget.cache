@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9eoPl37yl2xoURURlZ/iXKTDqQjvMXonBfR6pSFcVwIgZ8cPOrPLYTJIrFBm3+oy4tNn3+lg5a9xSoIjongDgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pk110\\source\\repos\\Hotel Reservation System\\Common Layer\\Common Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pk110\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

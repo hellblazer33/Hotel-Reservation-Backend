@@ -1,0 +1,10 @@
+C:\Users\pk110\source\repos\Hotel Reservation System\Common Layer\bin\Debug\netcoreapp3.1\Common Layer.deps.json
+C:\Users\pk110\source\repos\Hotel Reservation System\Common Layer\bin\Debug\netcoreapp3.1\Common Layer.dll
+C:\Users\pk110\source\repos\Hotel Reservation System\Common Layer\bin\Debug\netcoreapp3.1\Common Layer.pdb
+C:\Users\pk110\source\repos\Hotel Reservation System\Common Layer\obj\Debug\netcoreapp3.1\Common Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pk110\source\repos\Hotel Reservation System\Common Layer\obj\Debug\netcoreapp3.1\Common Layer.AssemblyInfoInputs.cache
+C:\Users\pk110\source\repos\Hotel Reservation System\Common Layer\obj\Debug\netcoreapp3.1\Common Layer.AssemblyInfo.cs
+C:\Users\pk110\source\repos\Hotel Reservation System\Common Layer\obj\Debug\netcoreapp3.1\Common Layer.csproj.CoreCompileInputs.cache
+C:\Users\pk110\source\repos\Hotel Reservation System\Common Layer\obj\Debug\netcoreapp3.1\Common Layer.dll
+C:\Users\pk110\source\repos\Hotel Reservation System\Common Layer\obj\Debug\netcoreapp3.1\Common Layer.pdb
+C:\Users\pk110\source\repos\Hotel Reservation System\Common Layer\obj\Debug\netcoreapp3.1\Common Layer.csproj.AssemblyReference.cache
